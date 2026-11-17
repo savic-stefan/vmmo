@@ -1,0 +1,1 @@
+print(sum([ord(x) for x in 'Савич']) % 3 + 1)
